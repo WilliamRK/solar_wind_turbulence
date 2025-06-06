@@ -1,0 +1,11 @@
+__pycache__
+*.png
+*.pdf
+pydata/
+*.npy
+*.cdf
+*.nc
+*.json
+*.csv
+*.txt
+*.idl
